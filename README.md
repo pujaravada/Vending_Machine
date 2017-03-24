@@ -14,9 +14,15 @@ Submitted by: **Pujita Ravada**
 * Product is dispensed.
 
 ## Assumption
+
 1) There is an unlimited supply of Sodas in the machine.
 2) The machine takes 2 payment types - Cash & Card - Credit/Debit.
 3) You have to insert the exact cash for cash payment.
 4) Card validation is done by an external system.
 
+## Video Walkthrough 
+
+Here's a walkthrough of how to use the code:
+
+<img src='https://github.com/pujaravada/Vending_Machine/blob/master/Vending_Machine.gif' title='Vending Machine' width='' alt='Vending Machine' />
 
